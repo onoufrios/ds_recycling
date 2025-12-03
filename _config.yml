@@ -2,8 +2,6 @@ remote_theme: pages-themes/primer@v0.6.0
 plugins:
 - jekyll-remote-theme
 
-gem "github-pages", group: :jekyll_plugins
-
 title: Ανακύκλωση, Πανεπιστήμιο Θεσσαλίας, Τμήμα Ψηφιακών Συστημάτων
 #description: Ανακύκλωση 
 
@@ -22,3 +20,9 @@ repo_trophies:
 footer_fixed: true
 lang: gr
 icon: ♻️
+
+# OPTIONAL for project sites:
+# If your Pages site is served at https://onoufrios.github.io/ds_recycling
+# uncomment and set these so links are generated correctly:
+# baseurl: "/ds_recycling"
+# url: "https://onoufrios.github.io"
