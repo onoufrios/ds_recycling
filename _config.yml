@@ -11,7 +11,7 @@ footer_text: >
   Αυτή η σελίδα φτιάχτηκε στα πλαίσια του μαθήματος "Οικολογία και Αειφορία" από τη φοιτήτρια Σοφία Στουπά.
   Καλλιτεχνική συνεισφορά στο project από Άννελι Σοφία Γκαμούλου.
 
-# repo color theme
+#repo color theme
 repo_theme_light: default # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 repo_theme_dark: dark # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 repo_trophies:
@@ -20,3 +20,5 @@ repo_trophies:
   theme_dark: gitdimmed # https://github.com/ryo-ma/github-profile-trophy
 
 footer_fixed: true
+lang: gr
+icon: ♻️
