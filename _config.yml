@@ -4,5 +4,19 @@ plugins:
 
 gem "github-pages", group: :jekyll_plugins
 
-title: Recycling, Department of Digital Systems, University of Thessaly
+title: Ανακύκλωση, Πανεπιστήμιο Θεσσαλίας, Τμήμα Ψηφιακών Συστημάτων
 #description: Ανακύκλωση 
+
+footer_text: >
+  Αυτή η σελίδα φτιάχτηκε στα πλαίσια του μαθήματος "Οικολογία και Αειφορία" από τη φοιτήτρια Σοφία Στουπά.
+  Καλλιτεχνική συνεισφορά στο project από Άννελι Σοφία Γκαμούλου.
+
+# repo color theme
+repo_theme_light: default # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
+repo_theme_dark: dark # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
+repo_trophies:
+  enabled: true
+  theme_light: flat # https://github.com/ryo-ma/github-profile-trophy
+  theme_dark: gitdimmed # https://github.com/ryo-ma/github-profile-trophy
+
+footer_fixed: true
