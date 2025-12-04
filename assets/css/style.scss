@@ -8,4 +8,12 @@
   margin: 1em;
   clear: both;
   outline: none;
+  position: static;
+  padding: 5px;
+  border: 0;
+  box-shadow: 0;
+}
+
+.inner {
+  max-width: 80%;
 }
