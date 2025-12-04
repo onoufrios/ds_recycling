@@ -28,3 +28,18 @@
 div.outer {
   padding-bottom: 1em;
 }
+
+#side_nav {
+  float: left;
+	width: 10%;
+}
+
+#side_nav a {
+  text-decoration: none;
+  color:#373737;
+}
+
+#side_nav ul li {
+  list-style-type: none;
+  padding: 1.5em;
+}
