@@ -11,6 +11,7 @@
   position: static;
   padding: 5px;
   border: 0;
+  padding-bottom: 1em;
   
   box-shadow: none;
   
@@ -22,4 +23,8 @@
 
 #main_content.inner {
   max-width: 70%;
+}
+
+div.outer {
+  padding-bottom: 1em;
 }
