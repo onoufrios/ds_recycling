@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="{{ site.lang | default: "en-US" }}">
+<html lang="{{ site.lang | default: "gr" }}">
 
   <head>
     <meta charset='utf-8'>
@@ -33,6 +33,20 @@
           {% endif %}
         </header>
     </div>
+
+    <!-- NAV -->
+    {% unless page.url == "/" %}
+    <nav id="side_nav">
+      <ul>
+        <li><a href="readme.md">Home</a></li>
+        <li><a href="batteries.md">Μπαταρίες</a></li>
+        <li><a href="paper.md">Χαρτί</a></li>
+        <li><a href="lightbulb.md">Λάμπες</a></li>
+        <li><a href="devices.md">Συσκευές</a></li>
+        <li><a href="rec_bin.md">Αλουμίνιο/Πλαστικό/Χαρτί</a></li>
+      </ul>
+    </nav>
+    {% endunless %}
 
     <!-- MAIN CONTENT -->
     <div id="main_content_wrap" class="outer">
