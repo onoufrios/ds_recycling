@@ -31,7 +31,8 @@ div.outer {
 
 #side_nav {
   float: left;
-	width: 10%;
+  width: 10%;
+  background-color: #666;
 }
 
 #side_nav a {
@@ -41,5 +42,5 @@ div.outer {
 
 #side_nav ul li {
   list-style-type: none;
-  padding: 1.5em;
+  padding: 0.5em;
 }
