@@ -36,16 +36,18 @@
 
     <!-- NAV -->
     {% unless page.url == "/" %}
-    <nav id="side_nav">
-      <ul>
-        <li><a href="https://onoufrios.github.io/ds_recycling/">Home</a></li>
-        <li><a href="https://onoufrios.github.io/ds_recycling/batteries.html">Μπαταρίες</a></li>
-        <li><a href="https://onoufrios.github.io/ds_recycling/paper.html">Χαρτί</a></li>
-        <li><a href="https://onoufrios.github.io/ds_recycling/lightbulb.html">Λάμπες</a></li>
-        <li><a href="https://onoufrios.github.io/ds_recycling/devices.html">Συσκευές</a></li>
-        <li><a href="https://onoufrios.github.io/ds_recycling/rec_bin.html">Αλουμίνιο/Πλαστικό/Χαρτί</a></li>
-      </ul>
-    </nav>
+    <div id="side_nav" class="outer">
+      <nav class="inner">
+        <ul>
+          <li><a href="https://onoufrios.github.io/ds_recycling/">Home</a></li>
+          <li><a href="https://onoufrios.github.io/ds_recycling/batteries.html">Μπαταρίες</a></li>
+          <li><a href="https://onoufrios.github.io/ds_recycling/paper.html">Χαρτί</a></li>
+          <li><a href="https://onoufrios.github.io/ds_recycling/lightbulb.html">Λάμπες</a></li>
+          <li><a href="https://onoufrios.github.io/ds_recycling/devices.html">Συσκευές</a></li>
+          <li><a href="https://onoufrios.github.io/ds_recycling/rec_bin.html">Αλουμίνιο/Πλαστικό/Χαρτί</a></li>
+        </ul>
+      </nav>
+    </div>
     {% endunless %}
 
     <!-- MAIN CONTENT -->
