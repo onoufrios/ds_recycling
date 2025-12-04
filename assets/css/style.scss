@@ -3,8 +3,7 @@
 
 @import "{{ site.theme }}";
 
-#header_wrap.inner {
-  padding: 0;
-  margin: 0;
-  width: 90%;
+#header_image {
+  width: 128px;
+  height: 128px;
 }
