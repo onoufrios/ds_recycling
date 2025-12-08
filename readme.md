@@ -11,5 +11,5 @@
 | [Χαρτί](paper.md) | Ισόγειο (A)  | <a href="https://www.larissa.gov.gr/el/e-upiresies/dnsi-kathariotitas-anakyklosis" target="_blank">Δήμος Λαρισαίων</a> |
 
 
-<img src="photos/map_points.svg" usemap="#mymap" alt="My map">
+<img src="photos/map_point.svg" usemap="#mymap" alt="My map">
 
