@@ -5,5 +5,5 @@ plugins:
 gem "github-pages", group: :jekyll_plugins
 
 title: Διαχείριση Αποβλήτων
-description: Πανεπιστήμιο Θεσσαλίας, Τμήμα Ψηφιακών Συστημάτων
+description: Τμήμα Ψηφιακών Συστημάτων, Πανεπιστήμιο Θεσσαλίας
 
