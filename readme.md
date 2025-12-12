@@ -5,9 +5,9 @@
 | Υλικό | Τοποθεσία | Φορέας Συλλογής |
 | -------- | :-------: | :-------: |
 | [Μπαταρίες](batteries.md)                 | Υπόγειο        | <a href="https://afis.gr/" target="_blank">ΑΦΗΣ</a> |
-| [Μελανοδοχεία/Toners](ink_containers.md)  | θα ανακοινωθεί | <a href="https://www.electrocycle.gr/" target="_blank">ανακύκλωση συκευών α.ε.</a> |
-| [Λάμπες](lightbulb.md)                    | Ισόγειο (A)    | <a href="https://www.electrocycle.gr/" target="_blank">ανακύκλωση συκευών α.ε.</a> |
-| [Ηλεκτρικές Συσκευές](devices.md)         | θα ανακοινωθεί | <a href="https://www.electrocycle.gr/" target="_blank">ανακύκλωση συκευών α.ε.</a> |
+| [Μελανοδοχεία/Toners](ink_containers.md)  | θα ανακοινωθεί | <a href="https://www.electrocycle.gr/" target="_blank">ανακύκλωση συσκευών α.ε.</a> |
+| [Λάμπες](lightbulb.md)                    | Ισόγειο (A)    | <a href="https://www.electrocycle.gr/" target="_blank">ανακύκλωση συσκευών α.ε.</a> |
+| [Ηλεκτρικές Συσκευές](devices.md)         | θα ανακοινωθεί | <a href="https://www.electrocycle.gr/" target="_blank">ανακύκλωση συσκευών α.ε.</a> |
 | [Αλουμίνιο](aluminium.md)                 | Ισόγειο (A)    | <a href="https://www.larissa.gov.gr/el/e-upiresies/dnsi-kathariotitas-anakyklosis" target="_blank">Δήμος Λαρισαίων</a> |
 | [Πλαστικό](plastic.md)                    | Ισόγειο (A)    | <a href="https://www.larissa.gov.gr/el/e-upiresies/dnsi-kathariotitas-anakyklosis" target="_blank">Δήμος Λαρισαίων</a> |
 | [Χαρτί](paper.md)                         | Ισόγειο (A)    | <a href="https://www.larissa.gov.gr/el/e-upiresies/dnsi-kathariotitas-anakyklosis" target="_blank">Δήμος Λαρισαίων</a> |
