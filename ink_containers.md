@@ -1,5 +1,3 @@
-[&#8592; Επιστροφή](readme.md)
-
 # Μελανοδοχεία/Toners
 
 ![Κάδος μελανοδοχείων και toners](photos/ink_bin.png)
