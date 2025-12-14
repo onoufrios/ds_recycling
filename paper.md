@@ -1,5 +1,3 @@
-[&#8592; Επιστροφή](readme.md)
-
 # Χαρτί
 
 <img src="photos/paper_rec.png" width="512">
