@@ -1,5 +1,3 @@
-[&#8592; Επιστροφή](readme.md)
-
 # Πλαστικό
 
 <img src="photos/plastic_rec.png" width="512">
