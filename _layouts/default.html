@@ -34,6 +34,9 @@
     <!-- MAIN CONTENT -->
     <div id="main_content_wrap" class="outer">
       <section id="main_content" class="inner">
+        {% if page.name != "README.md" %}
+          <a href="https://onoufrios.github.io/ds_recycling/">&#8592; Επιστροφή</a>
+        {% endif %}
         {{ content }}
       </section>
     </div>
