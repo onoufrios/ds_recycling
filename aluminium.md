@@ -1,5 +1,3 @@
-[&#8592; Επιστροφή](readme.md)
-
 # Αλουμίνιο/Μέταλλο
 
 <img src="photos/aluminum_rec.png" width="512">
