@@ -1,4 +1,4 @@
-# Αλουμίνιο/Μέταλλο
+# Αλουμίνιο/Μέταλλα
 
 <img src="photos/aluminum_rec.png" width="512">
 
