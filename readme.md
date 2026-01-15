@@ -1,4 +1,4 @@
-<img src="photos/three_bins.jpg" height="512">
+<img src="photos/three_bins.jpg" width="512">
 
 Το Τμήμα Ψηφιακών Συστημάτων εφαρμόζει διαδικασίες *διαλογής στην πηγή* για τα παρακάτω απορρίμματα:
 
